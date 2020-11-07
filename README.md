@@ -4,7 +4,7 @@
 <!--
 **RageManYTB/RageManYTB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you starte
+
 
 - 🔭 Je travaille actuellement sur @NasaCraft ❤
 - 🌱 J'apprends actuellement .html et du JAVA !!🐱‍👤
