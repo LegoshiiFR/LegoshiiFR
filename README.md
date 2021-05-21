@@ -3,7 +3,7 @@
 - 🌱 J'apprends actuellement .html et du JAVA !!🐱‍👤
 - 🤔 Je cherche de l'aide pour créer un Launcher pour NasaCraft✨
 - 💬 Interrogez-moi sur TOUS
-- 📫 Comment me joindre: https://discord.gg/2MV32MZ
+- 📫 Comment me joindre: https://discord.gg/6FFb6zt9jJ
 - ⚡ Fait amusant: http://bit.ly/2Qzn9Lo
 
 
