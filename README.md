@@ -1,10 +1,10 @@
-### Salut😜 Je suis le créateur de @NasaCraft😍 
-- 🔭 Je travaille actuellement sur @NasaCraft ❤
-- 🌱 J'apprends actuellement .html et du JAVA !!🐱‍👤
-- 🤔 Je cherche de l'aide pour créer un Launcher pour NasaCraft✨
+### Salut😜 Je suis le créateur de quelle que petits projets😍 
+- 🔭 Je travaille actuellement sur plusieurs petits projets ❤
+- 🌱 J'apprends actuellement le JAVA / PHP et BASH !!🐱‍👤
+- 🤔 Je cherche des personnes qui pourrais m'apprendre le JAVA ou tout autres launguages de programation ✨
 - 💬 Interrogez-moi sur TOUS
-- 📫 Comment me joindre: https://discord.gg/6FFb6zt9jJ
-- ⚡ Fait amusant: http://bit.ly/2Qzn9Lo
+- 📫 Comment me joindre: youtune.contact.rageman@g:mail.com
+- ⚡ Ma chaîne YouTube : http://bit.ly/2Qzn9Lo (EN PAUSE)
 
 
 <!--
