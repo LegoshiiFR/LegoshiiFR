@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://legoshii.tk/project.html](https://legoshii.tk/project.html)
 
-- 🤝 I’m looking for work [https://discord/user/473917777757863947](https://discord/users/473917777757863947)
+- 🤝 I’m looking for work [https://discord/user/473917777757863947](https://discord.com/users/473917777757863947)
 
 - 💬 Ask me about **html, css, php, python, javascript, bash**
 
