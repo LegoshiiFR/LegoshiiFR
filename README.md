@@ -23,7 +23,7 @@
 </div>
   
 ## 🌐Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/473917777757863947)](https://discord.com/users/473917777757863947)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1208435732587356272)](https://discord.com/users/1208435732587356272)
 
 
 <h3 align="left">Support:</h3>
