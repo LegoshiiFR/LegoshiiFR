@@ -7,7 +7,7 @@
 
 - 🔎 Mes réseaux sociaux [https://www.linkedin.com/in/axel-lalaut-481a97292/](https://www.linkedin.com/in/axel-lalaut-481a97292/)
 
-- ✉️ Mon mail **axel-l@agence-prestige-numerique.fr/**
+- ✉️ Mon mail **axel-l@agence-prestige-numerique.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
