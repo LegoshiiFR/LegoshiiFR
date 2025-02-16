@@ -5,7 +5,7 @@
 
 - 🏢 Mon agence web [Agence Prestige Numérique](https://agence-prestige-numerique.fr/)
 
-- 🔎 Mes réseaux sociaux [https://www.linkedin.com/in/axel-lalaut-481a97292/](https://www.linkedin.com/in/axel-lalaut-481a97292/)
+- 🔎 Mes réseaux sociaux [Linkedin](https://www.linkedin.com/in/axel-lalaut-481a97292/) / [Instagram](https://www.instagram.com/axxel__la/)
 
 - ✉️ Mon mail **axel-l@agence-prestige-numerique.fr**
 
