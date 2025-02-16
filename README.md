@@ -5,7 +5,7 @@
 
 - 🏢 Mon agence web [Agence Prestige Numérique](https://agence-prestige-numerique.fr/)
 
-- 🔎 Mes réseaux sociaux <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-lalaut" height="20" width="30"/>[Linkedin](https://www.linkedin.com/in/axel-lalaut-481a97292/) / <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axxel__la" height="20" width="30" /> [Instagram](https://www.instagram.com/axxel__la/)
+- 🔎 Mes réseaux sociaux <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="axel-lalaut" height="15" width="20"/>[Linkedin](https://www.linkedin.com/in/axel-lalaut-481a97292/) / <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="axxel__la" height="15" width="20" /> [Instagram](https://www.instagram.com/axxel__la/)
 
 - ✉️ Mon mail **axel-l@agence-prestige-numerique.fr**
 
@@ -14,5 +14,5 @@
 
 <h3 align="left">Support :</h3>
 <p><a href="https://ko-fi.com/Legoshii"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Legoshii" /></a></p><br><br>
-
+<br><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=legoshiifr&show_icons=true&locale=en&layout=compact" alt="legoshiifr" /></p>
